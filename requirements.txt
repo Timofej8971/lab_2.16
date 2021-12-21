@@ -1,0 +1,6 @@
+attrs==21.2.0
+CairoSVG==2.5.2
+certifi==2021.10.8
+jsonschema==4.3.2
+pyrsistent==0.18.0
+wincertstore==0.2

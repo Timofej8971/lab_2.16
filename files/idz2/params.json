@@ -1,0 +1,25 @@
+{
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "punkt": {
+          "type": "string"
+        },
+        "nomer": {
+          "type": "string"
+        },
+        "time": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "punkt",
+        "nomer",
+        "time"
+      ],
+      "additionalProperties": false
+    }
+  ]
+}
